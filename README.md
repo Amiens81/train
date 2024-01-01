@@ -5,4 +5,8 @@ Mermaid
 Triple G
 =======
 This is change for git pull
+<<<<<<< HEAD
+>>>>>>> master
+=======
+this is.
 >>>>>>> master
